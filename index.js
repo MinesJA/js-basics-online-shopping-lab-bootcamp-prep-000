@@ -97,7 +97,7 @@ function total() {
     totalCost.push(price);
     }
 
-  return totalCost
+  console.log(totalCost)
 
   var sum = 0;
 
