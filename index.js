@@ -126,7 +126,7 @@ for (let i = 0; i < cart.length; i++){
 
 if(empty.length === cart.length){
   //console.log("TRUE")
-  return "That item is not in your cart."
+  console.log("That item is not in your cart.");
 }
 else {
   //console.log("FALSE")
